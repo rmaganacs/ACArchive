@@ -8,8 +8,6 @@ AC: Archives is an Android application designed to provide detailed information 
 
 ## Features
 
-- **Comprehensive Database:** AC: Archives offers an extensive collection of assassins' information from different Assassins Creed games, spanning multiple eras and storylines.
-
 - **Detailed Profiles:** Each assassin has a dedicated profile page showcasing their name, game origin, role in the story, abilities, weapons, and more.
 
 - **Sleek UI:** AC: Archives features an intuitive and visually pleasing user interface, enhancing the user experience.
