@@ -18,7 +18,7 @@ AC: Archives is an Android application designed to provide detailed information 
 
 AC: Archives is designed for Android devices and requires Android version 5.0 (Lollipop) and above. To install the app, follow these steps:
 
-1. Download the APK file from the [release page](https://github.com/yourusername/ac-archives/releases).
+1. Download the APK file from this [link]([https://github.com/yourusername/ac-archives/releases](https://drive.google.com/file/d/17S0RsyvlODB40Z3doIea9582tQaoPGbc/view?usp=sharing)).
 
 2. Enable installation from unknown sources on your Android device:
    - Go to **Settings** > **Security** > **Unknown sources**.
