@@ -16,9 +16,9 @@
             android:fontFamily="@font/poppins_medium"
             android:textColor="#CDCBCB"
             android:gravity="center"
-            android:text="Choose an option"
+            android:text="CHOOSE AN OPTION"
             android:textSize="24sp"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="20dp"
             tools:ignore="HardcodedText" />
     </RelativeLayout>
 
