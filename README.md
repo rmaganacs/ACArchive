@@ -13,19 +13,3 @@ AC: Archives is an Android application designed to provide detailed information 
 - **Sleek UI:** AC: Archives features an intuitive and visually pleasing user interface, enhancing the user experience.
 
 - **(Coming Soon) Search Functionality:** Users can easily search for specific assassins by name, game title, or time period, making it quick to find the desired information.
-
-## Installation
-
-AC: Archives is designed for Android devices and requires Android version 5.0 (Lollipop) and above. To install the app, follow these steps:
-
-1. Download the APK file from this [link](https://drive.google.com/file/d/17S0RsyvlODB40Z3doIea9582tQaoPGbc/view?usp=sharing).
-
-2. Enable installation from unknown sources on your Android device:
-   - Go to **Settings** > **Security** > **Unknown sources**.
-   - Toggle the switch to enable installation from unknown sources.
-
-3. Locate the downloaded APK file using a file manager.
-
-4. Tap on the APK file to begin the installation process.
-
-5. Follow the on-screen instructions to complete the installation.
